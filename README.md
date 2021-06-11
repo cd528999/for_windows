@@ -7,5 +7,7 @@ winXray https://github.com/search?q=winXray+license%3AUnlicense+fork%3Atrue+sort
 
 v2rayN  https://github.com/2dust/v2rayN/releases
 
+Clash.NET https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/tag/v1.1.2
+
 以上連結 供己用收藏
 如有侵权，请私信我删除。
